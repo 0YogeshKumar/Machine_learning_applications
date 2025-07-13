@@ -88,12 +88,6 @@ Contributions are always welcome\! If you have suggestions for improvements, new
 
 -----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
------
-
 ## 🙏 Acknowledgments
 
   * Special thanks to the creators of the datasets used in these projects.
