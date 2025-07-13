@@ -1,11 +1,3 @@
-# Machine_learning_applications
-
-It looks like you've provided two Jupyter notebooks: `House_Price.ipynb` and `Student_Depression.ipynb`. This gives me a much clearer idea of your repository's content\!
-
-Here's an attractive `readme.md` for your "Machine Learning Applications" repository, incorporating details from both notebooks:
-
------
-
 # 🚀 Machine Learning Applications
 
 Welcome to the **Machine Learning Applications** repository\! This collection showcases practical implementations of machine learning techniques to solve real-world problems. Each project within this repository is designed to be a standalone example, demonstrating data analysis, model building, and evaluation using various machine learning algorithms.
